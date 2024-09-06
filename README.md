@@ -1,5 +1,7 @@
 # Dmoney API Automation
-### Project Summary: Performed Integration and API testing on dmoney API. In here I have automated the CRUD functionalities for a user.
+### Project Summary: Performed Integration and API testing on dmoney API. In here I have automated the CRUD functionalities for a user.This project simulates a financial transaction system where an Admin creates an Agent, Customers, and a Merchant. It involves depositing and transferring funds between these entities, checking balances, and verifying transaction statements using unique transaction IDs. The scenario demonstrates deposit, transfer, withdrawal, and payment functionalities within a controlled environment.
+
+
 
 ## Technologies I have used: 
 - postman
