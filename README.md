@@ -10,14 +10,21 @@
 
 ## How to run?
 1. Clone this project.
-2. Give this command `npm i`
+2. Install dependencies `npm i`
 3. Add env file to your project root.
 4. Now hit this command to execute:
-     ```npm test```
+     ```npx newman run <collection_file_api_key>```
+
+## How to generate html report?
+1. Install HTML-Extra Newman Reporter: ```npm install -g newman-reporter-htmlextra```
+2. Create a report folder.
+3. Run the command ```node .\report.js```
+4. Reveal in file explorer (Open the report folder to view report.html)
+
 
 - Documentation for the API: [Documentation](https://documenter.getpostman.com/view/37960751/2sAXjQ2q3e)
-- Test case for this project: 
-- Bug report for this project:
+- Test case for this project: [Test Case](https://docs.google.com/spreadsheets/d/14dcGHVeJsV7hw1gPW23MVc8FtWRV5sRB_DKGBPoL5X4/edit?usp=drive_link)
+- Bug report for this project: [Bug Report](https://docs.google.com/spreadsheets/d/1GPtIM5Nxf1zIvq74amsCtX61O3-9Wf2E-rQK4FAOs_M/edit?usp=drive_link)
 
 
 ## Output
